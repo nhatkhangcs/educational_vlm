@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.py[cod]
+data/
+outputs/
+checkpoints/
+.DS_Store
+
+artifacts/
+
+# secrets and local backups
+.env
+.backup/

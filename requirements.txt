@@ -1,0 +1,13 @@
+# Tested with torch 2.9.1, transformers 5.13.0, datasets 5.0.0 (Python 3, CUDA 12.8).
+torch>=2.9
+torchvision
+transformers>=5.0  # notebooks 05, 06, and 08 rely on the v5 output objects of get_image_features / get_text_features
+datasets>=5.0
+Pillow
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+jupyter
+notebook
