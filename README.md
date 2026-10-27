@@ -119,6 +119,12 @@ And if you enjoyed the notebooks, a star helps other people find them.
 
 ## Stars over time
 
-<a href="https://www.star-history.com/#nhatkhangcs/educational_vlm&Date">
-  <img src="https://api.star-history.com/svg?repos=nhatkhangcs/educational_vlm&type=Date" alt="Star history chart" width="600">
+## Star History
+
+<a href="https://www.star-history.com/?type=date&repos=nhatkhangcs%2Feducational_vlm">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nhatkhangcs/educational_vlm&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nhatkhangcs/educational_vlm&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nhatkhangcs/educational_vlm&type=date&legend=top-left" />
+ </picture>
 </a>
