@@ -117,8 +117,6 @@ If this helps your work, you can cite the book:
 
 And if you enjoyed the notebooks, a star helps other people find them.
 
-## Stars over time
-
 ## Star History
 
 <a href="https://www.star-history.com/?type=date&repos=nhatkhangcs%2Feducational_vlm">
